@@ -1,0 +1,1 @@
+## Write a function which can convert the time input given in 12 hours format to 24 hours format

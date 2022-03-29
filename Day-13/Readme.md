@@ -1,0 +1,1 @@
+## Convert given seconds to space age on all planets of our solar system

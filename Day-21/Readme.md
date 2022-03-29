@@ -1,0 +1,1 @@
+## Write the code for the function which returns the the union of the two given arrays

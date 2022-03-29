@@ -1,0 +1,1 @@
+## Write a function which accepts two valid dates and returns the difference between them as number of days
